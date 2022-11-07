@@ -1,0 +1,18 @@
+{
+  "name": "weather_console",
+  "version": "1.0.0",
+  "description": "Домашнее задание к занятию «1.5 http-module. Переменные окружения»",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Butusov S. A.",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  },
+  "dependencies": {
+    "yargs": "^17.6.2"
+  }
+}
